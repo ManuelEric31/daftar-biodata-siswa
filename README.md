@@ -1,6 +1,6 @@
 daftar-biodata-siswa
 ==
-Daftar Biodata Siswa Dicoding Academy
+Daftar Biodata Siswa Bangkit Academy
 --
 *Berikut merupakan biodata siswa yang terdiri dari 3 angkatan*
 - Angkatan 2019
