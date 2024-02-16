@@ -1,6 +1,6 @@
 daftar-biodata-siswa
 ==
-Daftar Biodata Siswa Dicoding Academy
+Daftar Biodata Siswa Universitas Dian Nuswantoro
 --
 *Berikut merupakan biodata siswa yang terdiri dari 3 angkatan*
 - Angkatan 2019
