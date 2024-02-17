@@ -9,3 +9,4 @@ Daftar Biodata Siswa Bangkit Academy
 Jece Mambu Kelek
 Eric Nesunan Mambu jagung
 Edan kwe
+enak banget sumpah  
