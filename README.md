@@ -8,3 +8,4 @@ Daftar Biodata Siswa Bangkit Academy
 - Angkatan 2021
 Jece Mambu Kelek
 Eric Nesunan Mambu jagung
+Edan kwe
